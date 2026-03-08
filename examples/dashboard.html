@@ -1,0 +1,25 @@
+---
+layout: light-bootstrap-dashboard-layout
+brand: Dashboard
+---
+
+<div class="row">
+    <div class="col-md-4">
+        {% include cards/content-cards/chart/card-chart-statistics.html chartId="chartEmail" %}
+    </div>
+
+    <div class="col-md-8">
+        {% include cards/content-cards/chart/card-chart-behavior-home.html chartId="chartHours" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        {% include cards/content-cards/chart/card-chart-sales.html chartId="chartActivity" %}
+    </div>
+
+    <div class="col-md-6">
+        {% include cards/content-cards/chart/card-chart-tasks.html%}
+
+    </div>
+</div>
