@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>{% include path/path-assets.html %}
+
+{% include head.html %}
+
+</head>
+
+<body class="{{ page.brand }}">
+    {% include navbar.html %}
+
+	<div class="wrapper">
+		{% include header-doc.html %}
+
+		{{ content }}
+
+
+	</div>
+    	{% include footer.html %}
+</body>
+
+    {% include js/script.html %}
+
+</html>
