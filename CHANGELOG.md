@@ -1,41 +1,41 @@
-# Change Log
+# Nhật Ký Thay Đổi
 
-## [2.0.0] 2017-12-11
-### Major Release
-- update to Bootstrap 4 Beta
-- added new icons by Nucleo
-- bug fixes and improvements
-- code refactoring
+## [2.0.0] 11-12-2017
+### Bản Phát Hành Lớn
+- Cập nhật lên Bootstrap 4 Beta
+- Thêm bộ biểu tượng mới từ Nucleo
+- Sửa lỗi và cải thiện hiệu suất
+- Tối ưu và tái cấu trúc mã nguồn
 
-## [1.4.0] 2017-11-02
-### Library Updates
+## [1.4.0] 02-11-2017
+### Cập Nhật Thư Viện
 - jQuery - `3.2.1`
-- bootstrap - `3.3.7`
-- chartist - `0.11.0`
+- Bootstrap - `3.3.7`
+- Chartist - `0.11.0`
 
-### Bug Fixing
-- replaced old javascript checkboxes and radios with only css checkboxes and radios
-- fixed responsive sidebar
-- small bug fixes
+### Sửa Lỗi
+- Thay thế checkbox và radio JavaScript cũ bằng checkbox và radio chỉ dùng CSS
+- Sửa lỗi sidebar hiển thị trên giao diện responsive
+- Sửa một số lỗi nhỏ khác
 
-## [1.3.1] 2017-01-19
-- switched to MIT license
+## [1.3.1] 19-01-2017
+- Chuyển sang giấy phép MIT
 
-## [1.3] 2016-01-22
-### New Template page + Video Tutorial [current version]
-- added the default template page + youtube video tutorial on how to create an Admin Template (link: https://www.youtube.com/watch...)
+## [1.3] 22-01-2016
+### Trang Template Mới + Video Hướng Dẫn
+- Thêm trang template mặc định + video hướng dẫn trên YouTube về cách tạo Admin Template
 
-## [1.2] 2016-01-17
-### New Page
-- for those who want to upsell inside their dashboard we added a new page "Upgrade to PRO" with a pricing and options table
+## [1.2] 17-01-2016
+### Trang Mới
+- Thêm trang "Nâng cấp lên PRO" dành cho những người muốn bán gói nâng cấp trong bảng điều khiển, có bảng giá và các tùy chọn
 
-## [1.1] 2015-09-08
-### Bug Fixing
-- added company name/logo inside the sidebar for small screens
-- fixed bug for notification with close button on small screens
-- fix live preview bug for download on small screens
-- fix table responsive for small screens
-- added new labels for chartist on small screens
+## [1.1] 08-09-2015
+### Sửa Lỗi
+- Thêm tên/logo công ty vào sidebar trên màn hình nhỏ
+- Sửa lỗi thông báo có nút đóng trên màn hình nhỏ
+- Sửa lỗi xem trước khi tải xuống trên màn hình nhỏ
+- Sửa bảng hiển thị responsive cho màn hình nhỏ
+- Thêm nhãn mới cho biểu đồ Chartist trên màn hình nhỏ
 
-## [1.0] 2015-08-20
-### Initial Release
+## [1.0] 20-08-2015
+### Phát Hành Ban Đầu
